@@ -1,0 +1,14 @@
+{
+    "name": "alissonperez/teste-segunda-lib",
+    "version": "1.0.0",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/alissonperez/composer-teste"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "1.0.*",
+        "alissonperez/composer-teste": "0.0.*"
+    }
+}

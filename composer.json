@@ -1,6 +1,6 @@
 {
     "name": "alissonperez/composer-teste",
-    "version": "0.0.5", // Test
+    "version": "0.0.6", // Test
     "require": {
         "monolog/monolog": "1.0.*"
     } ,

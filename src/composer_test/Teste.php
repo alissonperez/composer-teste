@@ -12,7 +12,7 @@ class Teste {
      * @author
      **/
     public function write() {
-        print "Foo Bar!"
+        print "Foo Bar!" ;
     }
 
 }
