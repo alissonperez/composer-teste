@@ -1,5 +1,7 @@
 <?
 
+// Teste de uso da lib Monolog
+
 require 'vendor/autoload.php';
 
 $log = new Monolog\Logger('name');
